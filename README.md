@@ -1,2 +1,1 @@
-# Hello_World
-The first one
+# Lit AI Text Generation
